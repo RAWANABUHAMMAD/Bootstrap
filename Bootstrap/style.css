@@ -1,0 +1,35 @@
+/* task4 */
+
+@media(min-width:600px) and(max-width:1500)
+ {
+   .task4{
+    flex-wrap: wrap;
+   } 
+}
+
+/* task5 */
+div{
+    display: flex;
+}
+
+/* task6 */
+div{
+    display: flex;
+}
+
+/* task7 */
+.task7{
+    display: flex;
+}
+    
+
+/* task8 */
+
+    
+
+@media(max-width:800){
+    .task8{
+display: flex;
+flex-wrap: wrap;}
+}
+
